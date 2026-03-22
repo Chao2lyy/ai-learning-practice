@@ -46,6 +46,3 @@ cd ai-learning-practice
 - [Andrej Karpathy 的 minGPT](https://github.com/karpathy/minGPT)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
-## 致谢
-
-感谢 Andrej Karpathy 的 minGPT 项目
